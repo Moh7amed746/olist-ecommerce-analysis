@@ -2,7 +2,7 @@
 
 An analysis of the Olist Brazilian e-commerce dataset using Python, SQL Server and Power BI. The repository holds the raw data, a cleaning notebook, a SQL script with reporting views, and a Power BI dashboard file.
 
-> **Note on reproducibility:** the pieces below were built by the author and are published as they are. The run instructions in this README were written from reading the code and have **not been tested end to end**. The repository does not include a script that loads the cleaned data into SQL Server, and it does not document which data source the Power BI file uses. See "Known gaps".
+> **Note on reproducibility:** This is a team project. My contribution focused on SQL Server reporting and Power BI dashboards. The run instructions in this README were written from reading the code and have **not been tested end to end**. The repository does not include a script that loads the cleaned data into SQL Server, and it does not document which data source the Power BI file uses. See "Known gaps".
 
 ## Tools
 
